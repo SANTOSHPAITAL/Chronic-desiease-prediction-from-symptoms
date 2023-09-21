@@ -14,7 +14,7 @@ This project explores the use of Various_machine learning algorithms to predict 
 #We have explored the pata and survey  from IEEE paper to include in our project
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896926/
 
-Algorithms Explored
+#Algorithms Explored
 The following algorithms have been explored in code:
 
 
@@ -26,7 +26,7 @@ The following algorithms have been explored in code:
 *KNN
 
 
-Dataset
+#Dataset
 Source-1
 The dataset for this problem used with the main.py script is downloaded from here:
 
@@ -39,11 +39,10 @@ The dataset for this problem used with the Jupyter notebook is downloaded from h
 
 https://impact.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
 This dataset has 3 columns:
-
 Disease  | Count of Disease Occurrence | Symptom
 You can either copy paste the whole table from here to an excel sheet or scrape it out using Beautifulsoup.
 
-Directory Structure
+#Directory Structure
 |_ dataset/
          |_ training_data.csv
          |_ test_data.csv
@@ -58,20 +57,22 @@ Directory Structure
                   |_ raw_data.xlsx [Columbia dataset for notebook]
          |_ Disease-Prediction-from-Symptoms-checkpoint.ipynb [ IPython Notebook for loading Columbia dataset, training model and Inference ]
 Usage
-Please make sure to install all dependencies before running the demo, using the following:
+#Please make sure to install all dependencies before running the demo, using the following:
 
 pip install -r requirements.txt
-Interactive Demo
+
+#Interactive Demo
 For running an interactive demo or sharing it with others, please run demo.py using Jupyter Notebook or Jupyter Lab.
 
 jupyter notebook demo.ipynb
-Standalone Demo
+
+#Standalone Demo
 For running the inference on test set or on custom inputs, you can also use the infr.py file as follows:
 
 python infer.py
 NOTE: This project is for demo purposes only. For any symptoms/disease, please refer to a Doctor.
 
-This is a Git journal for the Company Varcons Technologies internship Project.
+#This is a Git journal for the Company Varcons Technologies internship Project.
 
 Author: SANTOSH KUMAR PAITAL
 co-author:SHAIMA AFREEN

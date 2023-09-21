@@ -5,6 +5,13 @@ Chronic desiease prediction from symptoms
 #Given accuracy rate: 68/100, 
 Current accuracy rate: 98/100-100/100
 
+Accuracy of Naive Bayes Model: 96.67%
+Accuracy of DecisionTree model: 96.67%
+Accuracy of K-Nearest Neighbors (KNN): 10.00%
+Accuracy of Logistic Regression: 100.00%
+Accuracy of Random Forest: 97.00%
+Accuracy of Support Vector Machine (SVM): 100.00%
+
 This project explores the use of Various_machine learning algorithms to predict diseases from symptoms.
 
 #We have explored the pata and survey  from IEEE paper to include in our project

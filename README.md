@@ -12,6 +12,7 @@ Accuracy of Logistic Regression: 100.00%
 Accuracy of Random Forest: 97.00%
 Accuracy of Support Vector Machine (SVM): 100.00%
 
+
 This project explores the use of Various_machine learning algorithms to predict diseases from symptoms.
 
 #We have explored the pata and survey  from IEEE paper to include in our project

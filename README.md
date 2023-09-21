@@ -2,7 +2,7 @@
 Chronic disease prediction from symptoms
 #Project_Statement:Machine Learning algorithms for predicting the risks of chronic diseases-Varcons technologies Pvt Ltd
 
-#Given accuracy rate: 68/100, 
+#Given accuracy rate: 68/100,
 Current accuracy rate: 98/100-100/100
 
 Accuracy of Naive Bayes Model: 96.67%
